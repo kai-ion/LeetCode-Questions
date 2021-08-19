@@ -19,7 +19,7 @@ public class Solution {
    }*/
 
    /**
-    * Prefix solution
+    * PreSum solution
     precalculate sums when first declaring array, then subtract left and right pointers
     Time:
         Constructor: O(N)
