@@ -2,3 +2,5 @@
 76. Minimum Window Substring
 546. Remove Boxes
 850. Rectangle Area II
+
+1235. Maximum Profit in Job Scheduling
