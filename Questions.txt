@@ -1,5 +1,6 @@
 37. Sudoku Solver, bitmasking
 76. Minimum Window Substring
+224. Basic Calculator
 546. Remove Boxes
 850. Rectangle Area II
 
